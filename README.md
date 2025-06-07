@@ -45,14 +45,17 @@ EDA helped uncover trends and patterns in the data. These were some of the guidi
 The dashboard contains four pages:
 
 - **Overview:** KPIs for Revenue, Profit, Quantity, and Customers with monthly trends
-  ![dashboard](https://github.com/user-attachments/assets/ea523c10-2ecc-4b2f-ab40-56ec6d0e9683)
-  
-- **Orders:** Detailed order breakdown with filters for year, state, and sales channel
-- ![Screenshot 2025-02-25 020312](https://github.com/user-attachments/assets/c08b559f-01aa-4a5a-bee4-92e4a71da410)
+ ![Screenshot 2025-02-25 020252](https://github.com/user-attachments/assets/c707a3ec-0d4b-451c-9628-4c8f2ecb86b7)
+
 - **Products:** Profit by product category, with line and column trends
-- ![Screenshot 2025-02-25 020252](https://github.com/user-attachments/assets/06297f68-f1e5-430a-9bfa-04a06c75ac2b)
+![Screenshot 2025-02-25 020312](https://github.com/user-attachments/assets/69526e69-51e4-4709-a93c-c035d42b86e1)
+
 - **Location:** State-level profit distribution *(not shown due to upload limit)*
-- ![Screenshot 2025-02-25 020334](https://github.com/user-attachments/assets/2a76bf6e-ef4f-4367-8aa4-bfc4e30504ef)
+![Screenshot 2025-02-25 020334](https://github.com/user-attachments/assets/eb6af593-3378-4bbd-9b59-bbf425acbb30)
+
+- **Orders:** Detailed order breakdown with filters for year, state, and sales channel
+![Screenshot 2025-02-25 020352](https://github.com/user-attachments/assets/577a86c9-f44c-4f4f-99dc-9cf0ea5c3064)
+
 Each page is interactive and allows users to slice data by year and category for deeper insight.
 
 ---
@@ -82,10 +85,16 @@ Each page is interactive and allows users to slice data by year and category for
 2. **Leverage High-Profit Sales Channels**
    - **Marketplaces** outperformed other channels 💰. Consider exclusive deals or seasonal releases through those platforms.
    - Evaluate underperforming channels (e.g., Retail Stores) for optimization or resource reallocation.
-     
+
 3. **Reassess Low-Performing Products**
    - Socks and Tank Tops may be dragging margins 📉—consider reducing SKUs, improving design, or repositioning in niche markets (e.g., fitness bundles).
 
 4. **Promote Consistently Performing Months**
    - If the first half of each year showed consistent profit growth 📅, plan product launches, influencer drops, or loyalty rewards during those periods.
+
+  ## 👤 Author
+
+**[Sharon Nwajiaku]**  
+📧 1sharonbukky@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sharon-nwajiaku-2a22022b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](https://sharon-analytics.github.io/)
 
